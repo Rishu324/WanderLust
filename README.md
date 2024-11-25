@@ -1,2 +1,0 @@
-# WanderLust
-Hotel booking website
